@@ -1,3 +1,3 @@
 # Trade indicators
 
-[Bollinger Bands](bollinger_bands.md)
+[Bollinger Bands, and Percent b (%b)](bollinger_bands.md)
